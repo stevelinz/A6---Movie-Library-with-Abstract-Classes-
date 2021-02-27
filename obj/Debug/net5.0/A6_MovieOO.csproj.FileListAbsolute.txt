@@ -1,0 +1,30 @@
+/Users/steve/Desktop/C#_Class/A6_MovieOO/bin/Debug/net5.0/A6_MovieOO.deps.json
+/Users/steve/Desktop/C#_Class/A6_MovieOO/bin/Debug/net5.0/A6_MovieOO.runtimeconfig.json
+/Users/steve/Desktop/C#_Class/A6_MovieOO/bin/Debug/net5.0/A6_MovieOO.runtimeconfig.dev.json
+/Users/steve/Desktop/C#_Class/A6_MovieOO/bin/Debug/net5.0/A6_MovieOO.dll
+/Users/steve/Desktop/C#_Class/A6_MovieOO/bin/Debug/net5.0/ref/A6_MovieOO.dll
+/Users/steve/Desktop/C#_Class/A6_MovieOO/bin/Debug/net5.0/A6_MovieOO.pdb
+/Users/steve/Desktop/C#_Class/A6_MovieOO/obj/Debug/net5.0/A6_MovieOO.csprojAssemblyReference.cache
+/Users/steve/Desktop/C#_Class/A6_MovieOO/obj/Debug/net5.0/A6_MovieOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steve/Desktop/C#_Class/A6_MovieOO/obj/Debug/net5.0/A6_MovieOO.AssemblyInfoInputs.cache
+/Users/steve/Desktop/C#_Class/A6_MovieOO/obj/Debug/net5.0/A6_MovieOO.AssemblyInfo.cs
+/Users/steve/Desktop/C#_Class/A6_MovieOO/obj/Debug/net5.0/A6_MovieOO.csproj.CoreCompileInputs.cache
+/Users/steve/Desktop/C#_Class/A6_MovieOO/obj/Debug/net5.0/A6_MovieOO.dll
+/Users/steve/Desktop/C#_Class/A6_MovieOO/obj/Debug/net5.0/ref/A6_MovieOO.dll
+/Users/steve/Desktop/C#_Class/A6_MovieOO/obj/Debug/net5.0/A6_MovieOO.pdb
+/Users/steve/Desktop/C#_Class/A6_MovieOO/obj/Debug/net5.0/A6_MovieOO.genruntimeconfig.cache
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/obj/Debug/net5.0/A6_MovieOO.csprojAssemblyReference.cache
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/obj/Debug/net5.0/A6_MovieOO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/obj/Debug/net5.0/A6_MovieOO.AssemblyInfoInputs.cache
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/obj/Debug/net5.0/A6_MovieOO.AssemblyInfo.cs
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/obj/Debug/net5.0/A6_MovieOO.csproj.CoreCompileInputs.cache
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/obj/Debug/net5.0/A6_MovieOO.dll
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/obj/Debug/net5.0/ref/A6_MovieOO.dll
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/obj/Debug/net5.0/A6_MovieOO.pdb
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/bin/Debug/net5.0/A6_MovieOO.deps.json
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/bin/Debug/net5.0/A6_MovieOO.runtimeconfig.json
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/bin/Debug/net5.0/A6_MovieOO.runtimeconfig.dev.json
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/bin/Debug/net5.0/A6_MovieOO.dll
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/bin/Debug/net5.0/ref/A6_MovieOO.dll
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/bin/Debug/net5.0/A6_MovieOO.pdb
+/Users/steve/Desktop/C#_Class/A6_MovieOO 2/obj/Debug/net5.0/A6_MovieOO.genruntimeconfig.cache
